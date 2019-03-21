@@ -1,0 +1,16 @@
+PODS:
+  - HYPickerView-ios (0.0.1)
+
+DEPENDENCIES:
+  - HYPickerView-ios (from `../`)
+
+EXTERNAL SOURCES:
+  HYPickerView-ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HYPickerView-ios: 7666f3c6ce0fe8a4bbc3ed8a0e92a16d5fa4a6cd
+
+PODFILE CHECKSUM: 731b9113063531b943f7fbb730f9d07730003cd0
+
+COCOAPODS: 1.6.1

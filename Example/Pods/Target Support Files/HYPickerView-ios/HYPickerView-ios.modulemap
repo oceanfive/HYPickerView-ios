@@ -1,0 +1,6 @@
+framework module HYPickerView_ios {
+  umbrella header "HYPickerView-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

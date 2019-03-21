@@ -1,6 +1,6 @@
 {
   "name": "HYPickerView-ios",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "HYPickerView-ios.",
   "description": "对系统 UIPickerView 的封装，以及一些常用的 PickerView",
   "homepage": "https://github.com/oceanfive/HYPickerView-ios",
@@ -9,11 +9,11 @@
     "file": "LICENSE"
   },
   "authors": {
-    "849638313@qq.com": "849638313@qq.com"
+    "oceanfive": "849638313@qq.com"
   },
   "source": {
-    "git": "https://github.com/849638313@qq.com/HYPickerView-ios.git",
-    "tag": "0.0.1"
+    "git": "https://github.com/oceanfive/HYPickerView-ios.git",
+    "tag": "0.0.4"
   },
   "platforms": {
     "ios": "7.0"

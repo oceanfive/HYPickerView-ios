@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HYPickerView-ios'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'HYPickerView-ios.'
   s.description      = <<-DESC
 对系统 UIPickerView 的封装，以及一些常用的 PickerView
